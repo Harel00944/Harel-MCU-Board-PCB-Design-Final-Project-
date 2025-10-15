@@ -40,7 +40,11 @@ During the design process, I focused on applying **proper PCB layout principles*
 - **Controlled impedance routing:** 
 This approach allowed me to gain hands-on experience with **real-world PCB design constraints**,  
 including manufacturability (DFM), electrical performance, and mechanical layout alignment between  boards.
-<img width="1236" height="847" alt="image" src="https://github.com/user-attachments/assets/a843f9a8-c3f6-4b5d-b15c-3481ac6c108e" />
+<img width="1357" height="875" alt="image" src="https://github.com/user-attachments/assets/a8e221be-8b17-48a1-a27b-afe8c41f549a" />
+<img width="1073" height="710" alt="image" src="https://github.com/user-attachments/assets/6e4b6b99-dfa7-4e47-9418-c59f801dd3ff" />
+
+
+
 
 
 
