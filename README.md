@@ -3,6 +3,7 @@ MCU control Board based on STM32F405RGT6(4 Layers Layout) , including USB-C, INA
 
 The board was designed and developed as a custom MCU control board  to interface with a PLL-based Signal Generator board(Part 2 of the final project) ,  
 while also i tried make it   versatile enough to serve as a  development platform for my  future projects and testing prototypes.
+<img width="1073" height="710" alt="image" src="https://github.com/user-attachments/assets/6e4b6b99-dfa7-4e47-9418-c59f801dd3ff" />
 
 
 The MCU board includes:
@@ -41,7 +42,6 @@ During the design process, I focused on applying **proper PCB layout principles*
 This approach allowed me to gain hands-on experience with **real-world PCB design constraints**,  
 including manufacturability (DFM), electrical performance, and mechanical layout alignment between  boards.
 <img width="1357" height="875" alt="image" src="https://github.com/user-attachments/assets/a8e221be-8b17-48a1-a27b-afe8c41f549a" />
-<img width="1073" height="710" alt="image" src="https://github.com/user-attachments/assets/6e4b6b99-dfa7-4e47-9418-c59f801dd3ff" />
 
 
 
